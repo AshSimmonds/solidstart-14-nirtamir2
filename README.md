@@ -1,3 +1,7 @@
+Heard via: https://discord.com/channels/722131463138705510/910635844119982080/1058531826647441498  
+  
+## Original readme:  
+  
 <p>
   <img width="100%" src="https://assets.solidjs.com/banner?type=Starter%20template&background=tiles&project=Solid%20Start%20Starter" alt="Solid Start Starter">
 </p>
